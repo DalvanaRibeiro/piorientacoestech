@@ -402,8 +402,15 @@ function App() {
               A seguir estão alguns recursos para o PI e os critérios oficiais
               que orientarão o desenvolvimento do trabalho e a banca.
 
-              Link Metodologia Científica: https://canva.link/busl07wvge2alzq
+             
             </p>
+             <a
+    href="https://canva.link/busl07wvge2alzq"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    📚 Clique aqui para acessar como fazer uma Fundamentação Científica
+  </a>
           </div>
         </section>
 
