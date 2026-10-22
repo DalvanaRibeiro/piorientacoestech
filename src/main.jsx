@@ -401,6 +401,8 @@ function App() {
             <p>
               A seguir estão alguns recursos para o PI e os critérios oficiais
               que orientarão o desenvolvimento do trabalho e a banca.
+
+              Link Metodologia Científica: https://canva.link/busl07wvge2alzq
             </p>
           </div>
         </section>
